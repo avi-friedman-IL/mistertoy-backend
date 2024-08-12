@@ -1,0 +1,72 @@
+[
+    {
+        "name": "fun",
+        "price": 8048,
+        "labels": ["fun", "bestseller", "top"],
+
+        "createdAt": 1721650074657,
+        "inStock": true,
+        "img": "08",
+        "nextToyId": "101",
+        "prevToyId": "105"
+    },
+    {
+        "name": "Talking Doll 1",
+        "price": 1000,
+        "labels": ["fun", "new", "hot", "popular", "bestseller", "top"],
+        "createdAt": "2024-07-16T12:00:00Z",
+        "inStock": true,
+        "nextToyId": "102",
+        "prevToyId": "FEU6G",
+        "img": "08"
+    },
+    {
+        "name": "Talking Doll 2",
+        "price": 2000,
+        "labels": ["hot", "popular", "bestseller", "top"],
+        "createdAt": "2024-07-16T12:00:00Z",
+        "inStock": true,
+        "img": "05",
+        "nextToyId": "103",
+        "prevToyId": "101"
+    },
+    {
+        "name": "Talking Doll 3",
+        "price": 300000,
+        "labels": ["fun"],
+        "createdAt": "2024-07-16T12:00:00Z",
+        "inStock": false,
+        "nextToyId": "104",
+        "prevToyId": "102",
+        "img": "02"
+    },
+    {
+        "name": "Talking Doll 4",
+        "price": 400,
+        "labels": ["fun", "new", "hot", "popular", "bestseller", "top"],
+        "createdAt": "2024-07-16T12:00:00Z",
+        "inStock": true,
+        "nextToyId": "105",
+        "prevToyId": "103",
+        "img": "03"
+    },
+    {
+        "name": "Talking Doll 5",
+        "price": 500,
+        "labels": ["fun", "kids", "hot", "popular", "bestseller", "top"],
+        "createdAt": "2024-07-16T12:00:00Z",
+        "inStock": false,
+        "nextToyId": "FEU6G",
+        "prevToyId": "104",
+        "img": "04"
+    },
+    {
+        "name": "game 2",
+        "price": 5329,
+        "labels": ["top"],
+
+        "createdAt": 1721766205733,
+        "inStock": true,
+        "img": "08"
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "_id": "u101",
+        "username": "puki",
+        "password": 1234,
+        "fullname": "puki ja"
+    },
+    {
+        "username": "shuki",
+        "password": "1",
+        "fullname": "shuki ja",
+        "score": 10000,
+        "_id": "bNGhD"
+    },
+    {
+        "username": "Evan Martinez",
+        "password": "2",
+        "fullname": "evan",
+        "score": 10000,
+        "_id": "h5hAA"
+    },
+    {
+        "username": "Avi Fridman",
+        "password": "5",
+        "fullname": "avi f",
+        "score": 10000,
+        "_id": "uuIw2"
+    },
+    {
+        "username": "baba",
+        "password": "1",
+        "fullname": "baba",
+        "score": 10000,
+        "_id": "m4RNz"
+    },
+    {
+        "username": "dada",
+        "password": "55",
+        "fullname": "dada",
+        "score": 10000,
+        "_id": "tNRbR"
+    },
+    {
+        "username": "zaza",
+        "password": "55",
+        "fullname": "zaza",
+        "score": 10000,
+        "_id": "KA67l"
+    },
+    {
+        "username": "kaka",
+        "password": "88",
+        "fullname": "kaka",
+        "score": 10000,
+        "_id": "WeApf"
+    },
+    {
+        "username": "jaja",
+        "password": "4",
+        "fullname": "jaja",
+        "score": 10000,
+        "_id": "ehen7"
+    },
+    {
+        "username": "lala",
+        "password": "4",
+        "fullname": "lala",
+        "score": 10000,
+        "_id": "NjTBf"
+    },
+    {
+        "username": "iaia",
+        "password": "4",
+        "fullname": "iaia",
+        "score": 10000,
+        "_id": "D4Cjt"
+    },
+    {
+        "username": "mama",
+        "password": "7",
+        "fullname": "mama",
+        "score": 10000,
+        "_id": "qJCyU"
+    },
+    {
+        "username": "puki",
+        "password": "\\",
+        "fullname": "puki ja",
+        "score": 10000,
+        "_id": "bXBcq"
+    },
+    {
+        "username": "puki",
+        "password": "k",
+        "fullname": "puki ja",
+        "score": 10000,
+        "_id": "yEl1x"
+    },
+    {
+        "username": "puki",
+        "password": "d",
+        "fullname": "puki ja",
+        "score": 10000,
+        "_id": "zC0ue"
+    },
+    {
+        "username": "yoyo",
+        "password": "5",
+        "fullname": "yoyo",
+        "score": 10000,
+        "_id": "aMqhK"
+    }
+]
